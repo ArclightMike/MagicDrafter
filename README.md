@@ -1,4 +1,5 @@
-# MagicDrafter
- **** Application is NOT Finished ****
+This application lets you generate "booster packs" for drafting from your existing collection. For Magic: The Gathering drafting rules, see this link - https://magic.wizards.com/en/game-info/gameplay/formats/booster-draft
 
-Use this application to open "packs" of cards from your existing Magic the Gathering card collection.  Then use regular drafting rules to perform a Booster Draft with your group.
+Items still under development:
+- Card buttons are generated, but the overall ui still needs work.
+- Pack contents are incorrect.  It gets a random from Scryfall right now, but really needs to use their api to get the exact json of what we need.
